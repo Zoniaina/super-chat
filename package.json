@@ -1,0 +1,11 @@
+{
+      "name": "super-chat",
+      "version": "0.1.0",
+      "dependencies": {
+            "ent": "~2.2.0",
+            "express": "^4.16.4",
+            "socket.io": "~2.0.0"
+      },
+      "author": "zo",
+      "description": "MA super chat! dirigé par MAteo21 de OC avec socket.io et Express"
+}
