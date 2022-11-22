@@ -4,7 +4,7 @@
       "dependencies": {
             "ent": "~2.2.0",
             "express": "^4.16.4",
-            "socket.io": "~2.0.0"
+            "socket.io": "~2.5.0"
       },
       "author": "zo",
       "description": "MA super chat! dirigé par MAteo21 de OC avec socket.io et Express"
